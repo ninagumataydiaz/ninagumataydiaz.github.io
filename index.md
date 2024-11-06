@@ -8,7 +8,7 @@ layout: default
 Nina is a Ph.D. student at the University of Miami studying Literary and Cultural Studies in the Department of Modern Languages and Literatures. 
 
 ## Contact information
-([email] (nina.lee@miami.edu)) 
+([email] (nina.lee@miami.edu)). 
 
 ## Education
 - University of Miami, Ph.D. 
